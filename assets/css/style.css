@@ -311,7 +311,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/portfolio/img_2d_3.png") top center;
   background-size: cover;
   padding: 0 15px;
 }
@@ -463,7 +463,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/portfolio/img_2d_7.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
